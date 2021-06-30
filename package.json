@@ -1,0 +1,13 @@
+{
+  "name": "items-like-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mongoose": "^5.13.0",
+    "morgan": "^1.10.0"
+  }
+}

@@ -1,0 +1,32 @@
+use test
+
+db.items.insertMany([
+  {
+    title: 'One',
+    description: ''
+  },
+  {
+    title: 'One',
+    description: ''
+  },
+  {
+    title: 'Two',
+    description: ''
+  },
+  {
+    title: 'Three',
+    description: ''
+  },
+  {
+    title: 'Four',
+    description: ''
+  },
+  {
+    title: 'Five',
+    description: ''
+  },
+  {
+    title: 'Six',
+    description: ''
+  },
+])
